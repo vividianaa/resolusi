@@ -1,4 +1,5 @@
 # Mempelajari Linux :
  -> Mempelajari Sistem Operasi
- -> Mempelajari perintah linux, contoh: find, grep dll
+ -> Mempelajari perintah linux
  -> Mempelajari shell dan cara menulis perintah di shell
+ -> Mempelajari ubuntu
